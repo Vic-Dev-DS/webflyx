@@ -1,0 +1,5 @@
+# Ignore all files in the root directory
+secure
+password.txt
+guilty_pleasures.md
+.DS_Store
